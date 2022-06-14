@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+    <country name="Estonia">
+        <symbol>€</symbol>
+        <currency>EUR</currency>
+        <year>2011</year>
+        <image></image>
+    </country>
+
+    <country name="Russia">
+        <symbol>₽</symbol>
+        <currency>RUB</currency>
+        <year>1316</year>
+        <image></image>
+    </country>
+
+    <country name="Japan">
+        <symbol>¥</symbol>
+        <currency>YEN</currency>
+        <year>1869</year>
+        <image></image>
+    </country>
+
+    <country name="Romania">
+        <symbol>lei</symbol>
+        <currency>RON</currency>
+        <year>1867</year>
+        <image></image>
+    </country>
+
+    <country name="Finland">
+        <symbol>€</symbol>
+        <currency>EUR</currency>
+        <year>1999</year>
+        <image></image>
+    </country>
+
+    <country name="Ukrain">
+        <symbol>₴</symbol>
+        <currency>UAH</currency>
+        <year>1996</year>
+        <image></image>
+    </country>
+
+    <country name="Poland">
+        <symbol>zł</symbol>
+        <currency>PLN</currency>
+        <year>1924</year>
+        <image></image>
+    </country>
+
+    <country name="Sweden">
+        <symbol>kr</symbol>
+        <currency>SEK</currency>
+        <year>1873</year>
+        <image></image>
+    </country>
+
+    <country name="UK">
+        <symbol>£</symbol>
+        <currency>GBP</currency>
+        <year>1694</year>
+        <image></image>
+    </country>
+
+    <country name="Hungary">
+        <symbol>ƒ</symbol>
+        <currency>HUF</currency>
+        <year>1946</year>
+        <image></image>
+    </country>
+
+</root>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <department name="IT and Multimedia">
+        <speciality name="Software developer">
+            <group name="JPTV20">
+                <student>Daniil Vassiljev</student>
+                <student>Maskim Dzjubenko</student>
+                <student>Daniil Divissenko</student>
+            </group>
+            <group name="JPTVR19">
+                <student >Dama Per Serj</student>
+                <student>Maskim Drishenko</student>
+                <student>Greg Brutiv</student>
+            </group>
+        </speciality>
+    </department>
+
+    <department name="Technology">
+        <speciality name="Automatic">
+            <group name="JPAS21">
+                <student>Daniil Vassiljev</student>
+                <student>Maskim Dzjubenko</student>
+                <student>Daniil Divissenko</student>
+            </group>
+            <group name="JPAVR18">
+                <student>Duna Vassjav</student>
+                <student>Mask Ilon</student>
+                <student>Danil Capyssenko</student>
+            </group>
+        </speciality>
+    </department>
+
+</root>

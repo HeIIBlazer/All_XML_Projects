@@ -1,0 +1,73 @@
+[
+    {
+        "name":"JURA",
+        "Ingredients":[
+            {"name":"Yeast dough","unit":"gr","count":"400"},
+            {"name":"Bacon","unit":"gr","count":"200"},
+            {"name":"Cheese","unit":"gr","count":"300"},
+            {"name":"Dry italian herbs","unit":"tsp","count":"1"},
+            {"name":"Tomato sauce (homemade","unit":"tbsp","count":"10"}
+        ],
+        "Cooking":[
+            {"Time":"15-20 min","degree":"190","Where":"Oven"}
+        ],
+
+        "steps":[
+            {"id":"1","dscription":"We place one part of the dough on a sheet hidden with parchment paper, lightly oiled, and use our hands to reduce the dough in a circle with a diameter of 30 cm."},
+            {"id":"2","dscription":"Grease with tomato sauce, leaving the edges intact."},
+            {"id":"3","dscription":"Sprinkle with dried Italian herbs. Grate some cheese on top."},
+            {"id":"4","dscription":"The next layer lay out the meat, cut into strips."},
+            {"id":"5","dscription":"Sprinkle generously with grated cheese."},
+            {"id":"6","dscription":"We place the pizza in the oven, heated to a temperature of 190 degrees, for 15-20 minutes, depending on the oven."}
+        ]
+
+    },
+
+    {
+        "name":"Capyssenko",
+        "Ingredients":[
+            {"name":"Yeast dough","unit":"gr","count":"400"},
+            {"name":"Onion","unit":"gr","count":"100"},
+            {"name":"Pineapple","unit":"gr","count":"240"},
+            {"name":"Mushrooms","unit":"gr","count":"300"},
+            {"name":"Tomato sauce (homemade","unit":"tbsp","count":"10"}
+        ],
+
+        "Cooking":[
+            {"Time":"30 min","degree":"250","Where":"Pan"}
+        ],
+
+        "steps":[
+            {"id":"1","dscription":"We place one part of the dough on a sheet hidden with parchment paper, lightly oiled, and use our hands to reduce the dough in a circle with a diameter of 30 cm."},
+            {"id":"2","dscription":"Grease with tomato sauce, leaving the edges intact."},
+            {"id":"3","dscription":"Sprinkle with dried Italian herbs. Grate some cheese on top."},
+            {"id":"4","dscription":"The next layer lay out the meat, cut into strips."},
+            {"id":"5","dscription":"Sprinkle generously with grated cheese."},
+            {"id":"6","dscription":"We place the pizza in the oven, heated to a temperature of 250 degrees, for 40 minutes, depending on the pan."}
+        ]
+
+    },
+
+    {
+        "name":"Dzjuba",
+        "Ingredients":[
+            {"name":"Yeast dough","unit":"gr","count":"400"},
+            {"name":"Cheese","unit":"gr","count":"300"},
+            {"name":"Mayo","unit":"ml","count":"400"},
+            {"name":"Bacon","unit":"gr","count":"150"},
+            {"name":"Chicken","unit":"gr","count":"100"}
+        ],
+        "Cooking":[
+            {"Time":"15 min","degree":"300","Where":"Oven"}
+        ],
+        "steps":[
+            {"id":"1","dscription":"We place one part of the dough on a sheet hidden with parchment paper, lightly oiled, and use our hands to reduce the dough in a circle with a diameter of 30 cm."},
+            {"id":"2","dscription":"Grease with tomato sauce, leaving the edges intact."},
+            {"id":"3","dscription":"Sprinkle with dried Italian herbs. Grate some cheese on top."},
+            {"id":"4","dscription":"The next layer lay out the meat, cut into strips."},
+            {"id":"5","dscription":"Sprinkle generously with grated cheese."},
+            {"id":"6","dscription":"We place the pizza in the oven, heated to a temperature of 300 degrees, for 15 minutes."}
+        ]
+
+    }
+]

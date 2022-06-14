@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SIMPLE-XML-BOOKS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="DTD">
+<Books>
+    <Book>
+        <BookID>1</BookID>
+        <ISBN>978-161729126</ISBN>
+        <Title>Pro ASP.NET MVC 4</Title>
+        <Description>The ASP.NET MVC 4 Framework is the latest evolution of Microsoft’s ASP.NET web platform. It provides a high-productivity programming model that promotes cleaner code architecture, test-driven development, and powerful extensibility, combined with all the benefits of ASP.NET. </Description>
+        <Price>38.8500</Price>
+        <Pages>500</Pages>
+        <Year>2013-01-16</Year>
+        <Language>ENG</Language>
+        <Category>Web</Category>
+        <Authors>
+            <Author AuthorID="2" Firstname="Adam" Lastname="Freeman" />
+        </Authors>
+    </Book>
+    <Book>
+        <BookID>2</BookID>
+        <ISBN>978-161729125</ISBN>
+        <Title>Professional ASP.NET MVC 4</Title>
+        <Description>An outstanding author team presents the ultimate Wrox guide to ASP.NET MVC 4Microsoft insiders join giants of the software development community to offer this in-depth guide to ASP.NET MVC, an essential web development technology. Experienced .NET and ASP.NET developers will find all the important information they need to build dynamic, data-driven websites with ASP.NET and the newest release of Microsoft's Model-View-Controller technology. </Description>
+        <Price>29.4700</Price>
+        <Pages>400</Pages>
+        <Year>2014-02-16</Year>
+        <Language>ENG</Language>
+        <Category>Web</Category>
+        <Authors>
+            <Author AuthorID="2" Firstname="Adam" Lastname="Freeman" />
+        </Authors>
+    </Book>
+    <Book>
+        <BookID>3</BookID>
+        <ISBN>978-161729127</ISBN>
+        <Title>Beginning ASP.NET MVC 4</Title>
+        <Description>Fast ASP.NET Websites delivers just what it promises—practical, hands-on guidance to create faster, more efficient ASP.NET sites and applications. This book offers step-by-step .NET-specific examples showing you how to apply classic page optimization tips, ASP.NET-specific techniques, and ways to leverage new HTML5 features. </Description>
+        <Price>30.7100</Price>
+        <Pages>300</Pages>
+        <Year>2012-03-16</Year>
+        <Language>ENG</Language>
+        <Category>Web</Category>
+        <Authors>
+            <Author AuthorID="7" Firstname="Jose Rolando" Lastname="Guay Paz" />
+        </Authors>
+    </Book>
+    <Book>
+        <BookID>4</BookID>
+        <ISBN>978-161729128</ISBN>
+        <Title>Fast ASP.NET Websites</Title>
+        <Price>24.9100</Price>
+        <Pages>200</Pages>
+        <Year>2011-04-16</Year>
+        <Language>ENG</Language>
+        <Category>Web</Category>
+        <Authors>
+            <Author AuthorID="5" Firstname="Brad" Lastname="Wilson" />
+            <Author AuthorID="8" Firstname="Dean " Lastname="Hume" />
+        </Authors>
+    </Book>
+    <Book>
+        <BookID>5</BookID>
+        <ISBN>978-1430242338</ISBN>
+        <Title>Pro C# 5.0 and the .NET 4.5 Framework</Title>
+        <Description> This new edition of Pro C# 5.0 and the .NET 4.5 Platform has been completely revised and rewritten to reflect the latest changes to the C# language specification and new advances in the .NET Framework. You'll find new chapters covering all the important new features that make .NET 4.5 the most comprehensive release yet, including: .NET APIs for Windows 8 style UI apps New asynchronous task-based model for async operations How HTML5 support is being wrapped into C# web applications New programming interfaces for HTTP applications, including improved IPv6 support Expanded WPF, WCF and WF libraries giving C# more power than ever before </Description>
+        <Price>29.0000</Price>
+        <Pages>1657</Pages>
+        <Year>2012-08-21</Year>
+        <Language>ENG</Language>
+        <Category>Programming</Category>
+        <Authors>
+            <Author AuthorID="11" Firstname="Andrew" Lastname="Troelsen" />
+        </Authors>
+    </Book>
+    <Book>
+        <BookID>6</BookID>
+        <ISBN>978-1590598221</ISBN>
+        <Title>Pro VB 2008 and the .NET 3.5 Platform</Title>
+        <Description>Anyone with some software development experience interested in the new .NET 3.5 platform and the Visual Basic language. Whether you’re moving to .NET for the first time or you’re already writing applications on .NET 2.0 or .NET 3.0, this book will provide you with a solid grounding in this new technology and serve as a comprehensive reference throughout your coding career. </Description>
+        <Price>25.0000</Price>
+        <Pages>1245</Pages>
+        <Year>2011-06-22</Year>
+        <Language>ENG</Language>
+        <Category>Programming</Category>
+        <Authors>
+            <Author AuthorID="11" Firstname="Andrew" Lastname="Troelsen" />
+        </Authors>
+    </Book>
+    <Book>
+        <BookID>7</BookID>
+        <ISBN>978-1449343507</ISBN>
+        <Title>Head First C#</Title>
+        <Description>Head First C# is a complete learning experience for learning how to program with C#, XAML, the .NET Framework, and Visual Studio. Fun and highly visual, this introduction to C# is designed to keep you engaged and entertained from first page to last.</Description>
+        <Price>29.0000</Price>
+        <Pages>653</Pages>
+        <Year>2012-06-13</Year>
+        <Language>ENG</Language>
+        <Category>Programming</Category>
+        <Authors>
+            <Author AuthorID="9" Firstname="Andrew" Lastname="Stellman" />
+            <Author AuthorID="10" Firstname="Jennifer" Lastname="Greene" />
+        </Authors>
+    </Book>
+    <Book>
+        <BookID>8</BookID>
+        <ISBN>978-0071809252</ISBN>
+        <Title>Java: A Beginner's Guide</Title>
+        <Description>Fully updated for Java Platform, Standard Edition 8 (Java SE 8), Java: A Beginner's Guide, Sixth Edition gets you started programming in Java right away. Bestselling programming author Herb Schildt begins with the basics, such as how to create, compile, and run a Java program. He then moves on to the keywords, syntax, and constructs that form the core of the Java language. This Oracle Press resource also covers some of Java's more advanced features, including multithreaded programming, generics, and Swing. Of course, new Java SE 8 features such as lambda expressions and default interface methods are described. An introduction to JavaFX, Java's newest GUI, concludes this step-by-step tutorial.</Description>
+        <Price>19.9500</Price>
+        <Pages>545</Pages>
+        <Year>2014-04-15</Year>
+        <Language>ENG</Language>
+        <Category>Programming</Category>
+        <Authors>
+            <Author AuthorID="12" Firstname="Herbert" Lastname="Schildt" />
+        </Authors>
+    </Book>
+    <Book>
+        <BookID>9</BookID>
+        <ISBN>978-0072263145 </ISBN>
+        <Title>Swing: A Beginner's Guide</Title>
+        <Description>Using the practical pedagogy that has made his other Beginner’s Guides so successful, Herb Schildt provides new Swing programmers with a completely integrated learning package. Perfect for the classroom or self-study, Swing: A Beginner’s Guide delivers the appropriate mix of theory and practical coding.</Description>
+        <Price>9.9900</Price>
+        <Pages>389</Pages>
+        <Year>2008-12-12</Year>
+        <Language>ENG</Language>
+        <Category>Programming</Category>
+        <Authors>
+            <Author AuthorID="12" Firstname="Herbert" Lastname="Schildt" />
+        </Authors>
+    </Book>
+    <Book>
+        <BookID>10</BookID>
+        <ISBN>978-0071488600</ISBN>
+        <Title>Herb Schildt's C++ Programming Cookbook</Title>
+        <Description>Legendary programming author Herb Schildt shares some of his favorite programming techniques in this high-powered C++ "cookbook." Organized for quick reference, each "recipe" shows how to accomplish a practical programming task. A recipe begins with a list of key ingredients (classes, functions, and headers) followed by step-by-step instructions that show how to assemble them into a complete solution.</Description>
+        <Price>9.9900</Price>
+        <Pages>621</Pages>
+        <Year>2008-04-28</Year>
+        <Language>ENG</Language>
+        <Category>Programming</Category>
+        <Authors>
+            <Author AuthorID="12" Firstname="Herbert" Lastname="Schildt" />
+        </Authors>
+    </Book>
+    <Book>
+        <BookID>11</BookID>
+        <ISBN>978-1430242338</ISBN>
+        <Title>Язык программирования C# 5.0 и платформа .NET 4.5</Title>
+        <Description>Признанный эксперт мирового уровня - Эндрю Троелсен, обучающий .NET с самой первой версии, поможет вам обрести с помощью книги «Язык программирования C# 5.0 и платформа .NET 4.5» глубокое понимание ключевых аспектов языка программирования C#, а также новых функциональных возможностей платформы, которые появились в версии .NET 4.5</Description>
+        <Price>32.9500</Price>
+        <Pages>1657</Pages>
+        <Year>2013-02-22</Year>
+        <Language>RUS</Language>
+        <Category>Programming</Category>
+        <Authors>
+            <Author AuthorID="11" Firstname="Andrew" Lastname="Troelsen" />
+        </Authors>
+    </Book>
+</Books>
+</SIMPLE-XML-BOOKS>

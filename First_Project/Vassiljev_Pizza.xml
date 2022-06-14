@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pizzeria>
+    <pizza name="JURA">
+        <ingredients>
+
+            <ingredient name="Yeast dough">
+                <weight>400 gramm</weight>
+            </ingredient>
+
+            <ingredient name="Bacon">
+                <weight>200 gramm</weight>
+            </ingredient>
+
+            <ingredient name="Cheese">
+                <weight>200 gramm</weight>
+            </ingredient>
+
+            <ingredient name="dry italian herbs">
+                 <weight>1 tsp</weight>
+            </ingredient>
+
+            <ingredient name="Tomato sauce (homemade)">
+                <weight> 10 tbsp</weight>
+            </ingredient>
+
+        </ingredients>
+    
+        <cooking>
+            <time>15-20 min</time>
+            <where>oven</where>
+            <degrees>190</degrees>
+        </cooking>
+
+        <recept>
+            <step-1>
+                We place one part of the dough on a sheet hidden with parchment paper, 
+                lightly oiled, and use our hands to reduce the dough in a circle with 
+                a diameter of 30 cm.
+            </step-1>
+
+            <step-2>
+                Grease with tomato sauce, leaving the edges intact.
+            </step-2>
+
+            <step-3>
+                Sprinkle with dried Italian herbs.
+                Grate some cheese on top.
+            </step-3>
+
+            <step-4>
+                The next layer lay out the meat, cut into strips.
+            </step-4>
+
+            <step-5>
+                Sprinkle generously with grated cheese.
+            </step-5>
+
+            <step-6>
+                We place the pizza in the oven, 
+                heated to a temperature of 190 degrees, 
+                for 15-20 minutes, depending on the oven.
+            </step-6>
+        </recept>
+    </pizza>
+
+    <pizza name="JURA">
+        <ingredients>
+
+            <ingredient name="Yeast dough">
+                <weight>400 gramm</weight>
+            </ingredient>
+
+            <ingredient name="Bacon">
+                <weight>200 gramm</weight>
+            </ingredient>
+
+            <ingredient name="Cheese">
+                <weight>200 gramm</weight>
+            </ingredient>
+
+            <ingredient name="dry italian herbs">
+                 <weight>1 tsp</weight>
+            </ingredient>
+
+            <ingredient name="Tomato sauce (homemade)">
+                <weight> 10 tbsp</weight>
+            </ingredient>
+
+        </ingredients>
+    </pizza>
+</Pizzeria>
